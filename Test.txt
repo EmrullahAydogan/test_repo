@@ -3,3 +3,9 @@ portakal
 ayva
 muz
 armut
+
+
+masa
+sandalye
+kalem
+bilgisayar
